@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350124759483",
+    "firebase_url": "https://monitour-f1ef3.firebaseio.com",
+    "project_id": "monitour-f1ef3",
+    "storage_bucket": "monitour-f1ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350124759483:android:6831d0100d6ad4d48c4c9e",
+        "android_client_info": {
+          "package_name": "za.co.monitournavactivator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350124759483-5q2kgqrn76nli7u73egllm6f98dvv8he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "za.co.monitournavactivator",
+            "certificate_hash": "b22f4d9d4ad4ccfe86ae26b4c7c8269fbd7604c5"
+          }
+        },
+        {
+          "client_id": "350124759483-0131g09sfqpe1a59ku836v8cip82sp5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3nbXMxFjdWYvlZXotMAxwdzGXbYlK9Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350124759483-0131g09sfqpe1a59ku836v8cip82sp5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
